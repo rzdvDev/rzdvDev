@@ -1,6 +1,6 @@
 Hi, my name is Egor!🙌
 ======================
-Python Backend Developer
+Python developer
 ------------------
 I have been actively programming for approximately seven years. During this period, I have developed numerous projects, with a focus on Telegram bots (over 100 in total). Additionally, I have created lightweight websites and web 3 applications, such as automated wallet withdrawals and address generation, among others.
 
