@@ -12,8 +12,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rzdvDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzdvDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css&size_weight=0.5&count_weight=0.5" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rzdvDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzdvDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css&size_weight=0.5&count_weight=0.5" height="160" alt="Top languages" />
 </p>
 
 ---
