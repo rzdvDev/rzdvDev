@@ -1,21 +1,42 @@
-Hi, my name is Egor!🙌
-======================
-Python developer
-------------------
-I have been actively programming for approximately seven years. During this period, I have developed numerous projects, with a focus on Telegram bots (over 100 in total). Additionally, I have created lightweight websites and web 3 applications, such as automated wallet withdrawals and address generation, among others.
+# 👋 Hi, I'm Egor
 
-### Skills
+## 🧑‍💻 About Me
+I’m a software engineering student passionate about backend development, C++, Python, web and system design. I enjoy building efficient systems and learning how things work under the hood.
 
-<p>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-  <a href="https://github.com/CPLUSPLUS" target="_blank" rel=noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/28b32812906c347fefc40bc30c5670a2f2003be5/public/icons/skills/cplusplus-colored.svg" width=36 height=36 alt="C++" /></a>
+---
+
+## 🛠 Skills
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sql-colored.svg" width="36" height="36" alt="SQL" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
 </p>
 
+---
 
+## ⚙️ Tools & Technologies
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vscode-colored.svg" width="36" height="36" alt="VS Code" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cmake-colored.svg" width="36" height="36" alt="CMake" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
+</p>
 
+---
 
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rzdvDev&show_icons=true&theme=tokyonight" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzdvDev&layout=compact&theme=tokyonight" height="150" alt="Top languages" />
+</p>
+
+---
+
+## 🏆 Badges
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-Advanced-blue?style=for-the-badge&logo=c%2B%2B" alt="C++ Advanced" />
+  <img src="https://img.shields.io/badge/Python-Intermediate-yellow?style=for-the-badge&logo=python" alt="Python Intermediate" />
+  <img src="https://img.shields.io/badge/Linux-Comfortable-black?style=for-the-badge&logo=linux" alt="Linux Comfortable" />
+  <img src="https://img.shields.io/badge/Git-Comfortable-orange?style=for-the-badge&logo=git" alt="Git Comfortable" />
+</p>
